@@ -9,7 +9,6 @@
 #      https://github.com/wolfSSL/wolfssl/pull/6600
 #
 # The basic steps for building:
-#
 # # set to your path
 # export ARIA_DIR=/mnt/c/workspace/MagicCrypto
 #
